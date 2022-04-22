@@ -4,30 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf22f7c9-56c0-4490-b199-bb281ccd9e8f" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/bin/main/org/hyperledger/fabric/samples/assettransfer/Asset.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/org/hyperledger/fabric/samples/assettransfer/AssetTransfer$AssetTransferErrors.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/org/hyperledger/fabric/samples/assettransfer/AssetTransfer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/test/org/hyperledger/fabric/samples/assettransfer/AssetTest$Equality.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/test/org/hyperledger/fabric/samples/assettransfer/AssetTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/test/org/hyperledger/fabric/samples/assettransfer/AssetTransferTest$DeleteAssetTransaction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/test/org/hyperledger/fabric/samples/assettransfer/AssetTransferTest$InvokeCreateAssetTransaction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/test/org/hyperledger/fabric/samples/assettransfer/AssetTransferTest$InvokeReadAssetTransaction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/test/org/hyperledger/fabric/samples/assettransfer/AssetTransferTest$MockAssetResultsIterator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/test/org/hyperledger/fabric/samples/assettransfer/AssetTransferTest$MockKeyValue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/test/org/hyperledger/fabric/samples/assettransfer/AssetTransferTest$TransferAssetTransaction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/test/org/hyperledger/fabric/samples/assettransfer/AssetTransferTest$UpdateAssetTransaction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/test/org/hyperledger/fabric/samples/assettransfer/AssetTransferTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="bf22f7c9-56c0-4490-b199-bb281ccd9e8f" name="Changes" comment="DuplicateAsset">
+      <change afterPath="$PROJECT_DIR$/170205A.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/assettransfer/AssetTransfer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/hyperledger/fabric/samples/assettransfer/AssetTransfer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/hyperledger/fabric/samples/assettransfer/AssetTransferTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/hyperledger/fabric/samples/assettransfer/AssetTransferTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +63,7 @@
       <workItem from="1650517238810" duration="1113000" />
       <workItem from="1650554944064" duration="1405000" />
       <workItem from="1650599769825" duration="714000" />
-      <workItem from="1650614910396" duration="908000" />
+      <workItem from="1650614910396" duration="5438000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1650447936376</created>
@@ -92,7 +72,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650447936376</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="DuplicateAsset">
+      <created>1650616300177</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1650616300178</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,6 +100,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="DuplicateAsset" />
+    <option name="LAST_COMMIT_MESSAGE" value="DuplicateAsset" />
   </component>
 </project>
