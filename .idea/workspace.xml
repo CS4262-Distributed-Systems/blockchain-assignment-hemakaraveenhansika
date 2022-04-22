@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf22f7c9-56c0-4490-b199-bb281ccd9e8f" name="Changes" comment="DuplicateAsset">
-      <change afterPath="$PROJECT_DIR$/170205A.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/hyperledger/fabric/samples/assettransfer/AssetTransferTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/hyperledger/fabric/samples/assettransfer/AssetTransferTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/170205A.md" beforeDir="false" afterPath="$PROJECT_DIR$/170205A.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +62,7 @@
       <workItem from="1650517238810" duration="1113000" />
       <workItem from="1650554944064" duration="1405000" />
       <workItem from="1650599769825" duration="714000" />
-      <workItem from="1650614910396" duration="5438000" />
+      <workItem from="1650614910396" duration="6953000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1650447936376</created>
